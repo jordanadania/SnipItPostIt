@@ -15,4 +15,4 @@ To build this code yourself, you will need to have AutoHotKey installed on your 
 This is the link for v1.1 which I used to write this code. Other version may or may not work.
 https://www.autohotkey.com/download/ahk-install.exe
 
-You can also download the executable directly from the releases page at...
+You can also download the executable directly from the releases page at https://github.com/jordanadania/SnipItPostIt/releases/tag/AHK

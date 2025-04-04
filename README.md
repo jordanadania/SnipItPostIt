@@ -8,3 +8,11 @@ Then use Alt+Ctrl+P to create the post-it note.
 Move the post-it note where you want it and hit Alt+Ctrl+. (dot/period)
 
 You can also hit Alt+Ctrl+A to make the window AlwaysOnTop.
+
+
+To build this code yourself, you will need to have AutoHotKey installed on your system.
+
+This is the link for v1.1 which I used to write this code. Other version may or may not work.
+https://www.autohotkey.com/download/ahk-install.exe
+
+You can also download the executable directly from the releases page at...
